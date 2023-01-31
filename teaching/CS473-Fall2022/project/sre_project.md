@@ -85,7 +85,7 @@ integration date and date at the ```git_head```.
 lines. In this case both effort duplication and missed opportunity are present. 
 This is a ***split case (SP)***.
 4. The file at the ```git_head``` of the target does not contain any of the ```buggy``` 
-or the ```patched``` lines. So this case would not be **interesting (NI)**.
+or the ```patched``` lines. So this case would **not** be **interesting (NI)**.
 
 We developed a clone detection tool, [PaReco](https://github.com/patchesandmissedmatches/patchesandmissedmatches),
 that can extracts patches from any source variant ( e.g., [Apache Kafka]((https://github.com/apache/kafka)) 
@@ -95,7 +95,7 @@ source variant Apache Kafka that are missing in the divergent target variant
 [LinkedIn](https://github.com/linkedin/kafka).
 
 Your assignment is to identify numerous patches from [patches](https://docs.google.com/spreadsheets/d/1zUSgYGCOMewzpQHE2eBd0yfDv_3lBp8_6rols1yp5xo/edit#gid=0) 
-that are of different sizes and integrate them in the source 
+that are of different sizes and integrate them in the divergent target variant 
 variant LinkedIn. The size can be measured in terms of number of commits, files_changed, 
 added_lines, deleted_lines.
 
