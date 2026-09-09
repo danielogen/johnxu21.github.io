@@ -162,6 +162,6 @@ Questions:
 - What do you think of the overview coverage visualization provided by SonarQube?
 - Which did you find better to visualize the source code with statement coverage, branch coverage or SonarQube?
 
-Post-Lab Quiz: Metrics & Visualization
+Post-Lab Quiz: Dynamic Analysis- Testing
 ==========
 Posted on WebCampus

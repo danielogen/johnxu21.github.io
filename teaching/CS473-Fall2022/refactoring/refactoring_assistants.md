@@ -183,6 +183,6 @@ In case you want to dive deeper into refactoring, here are some extra materials 
 4. F. Khomh, M. D. Penta, Y.-G. Guéhéneuc, and G. Antoniol. An exploratory study of the impact of antipatterns on class change- and fault-proneness. Empirical Softw. Engg., 17(3):243–275, June 2012. http://link.springer.com/article/10.1007%2Fs10664-011-9171-y
 5. Nikolaos Tsantalis, IEEE, Ameya Ketkar, and Danny Dig, [Refactoring 2.0](https://users.encs.concordia.ca/~nikolaos/publications/TSE_2020.pdf). 2020
 
-Post-Lab Quiz: Metrics & Visualization
+Post-Lab Quiz: Refactoring Assistants
 ==========
 Posted on WebCampus
