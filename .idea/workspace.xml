@@ -34,11 +34,6 @@
       <change afterPath="$PROJECT_DIR$/../../00lectures/472-General/Testing/Group-5/test_coverage_lab/tests/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../00lectures/472-General/Testing/Group-5/test_coverage_lab/tests/fixtures/account_data.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../00lectures/472-General/Testing/Group-5/test_coverage_lab/tests/test_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching/CS472/project/Google-Docs-Team-Meeting-Minutes-Template.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/CS472/Timetable/Software-Testing-and-CI.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/teaching/CS472/Timetable/Software-Testing-and-CI.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/CS472/Timetable/~$Software-Testing-and-CI.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching/CS472/Timetable/~$Testing_Final.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +202,7 @@
       <workItem from="1785600672860" duration="622000" />
       <workItem from="1787593606805" duration="12470000" />
       <workItem from="1788203043196" duration="6656000" />
-      <workItem from="1788353582585" duration="3225000" />
+      <workItem from="1788353582585" duration="3328000" />
     </task>
     <servers />
   </component>
